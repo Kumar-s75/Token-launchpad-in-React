@@ -1,2 +1,2 @@
-# Starter code
-The code contains the initial HTML and CSS structure for the token launchpad.
+# Token launchpad
+This is a basic token launchpad.
